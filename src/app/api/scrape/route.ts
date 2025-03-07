@@ -76,4 +76,3 @@ async function setupPage(page: Page) {
     'Pragma': 'no-cache',
   });
 }
-
